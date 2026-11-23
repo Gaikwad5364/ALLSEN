@@ -1,0 +1,1 @@
+Always read ALLSEN_Phase1_Build_Spec.md before working. Build one stage at a time and stop after each stage for my review. Never print, copy or commit the contents of .env.local. Use Supabase migrations for all schema changes. Ask before running any command that changes the database.
